@@ -10,7 +10,7 @@ HTML, CSS
 
 ## Final result:
 ### On Mobile Devices:
-![mobile view](Pricing-Panel/final/mobile.png)
+![mobile view](/final/mobile.png)
 
 ### On Desktop:
-![Desktop view](Pricing-Panel/final/desktop.png)
+![Desktop view](/final/desktop.png)
