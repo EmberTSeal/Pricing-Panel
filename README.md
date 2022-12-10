@@ -10,7 +10,7 @@ HTML, CSS
 
 ## Final result:
 ### On Mobile Devices:
-![mobile view](/final/mobile.png)
+![mobile view](/final/mobile.png width=716px height=888px)
 
 ### On Desktop:
 ![Desktop view](/final/desktop.png)
