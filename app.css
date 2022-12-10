@@ -83,3 +83,23 @@ html{
 	margin-bottom:25px;
 	width: 100%;
 }
+
+.pricing-header{
+	font-weight: 600;
+	color: #888;
+	letter-spacing: 1px;
+}
+
+.pricing-features{
+	margin: 50px 0 25px;
+	color: #016ff9
+}
+
+.pricing-features-item{
+	font-weight: 600;
+	font-size:12px;
+	line-height: 1.5;
+	padding: 15px 0;
+	border-top: 1px solid #e1f1ff;
+	letter-spacing: 1px;
+}
