@@ -10,7 +10,7 @@ HTML, CSS
 
 ## Final result:
 ### On Mobile Devices:
-![mobile view]<img src ="/final/mobile.png" width=358px height=1171px>
+<p align = center><img src ="/final/mobile.png" alt = "Mobile View" width=358px height=1171px></p>
 
 ### On Desktop:
 ![Desktop view](/final/desktop.png)
